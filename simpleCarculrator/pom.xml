@@ -3,6 +3,10 @@
   <groupId>hansung.ce</groupId>
   <artifactId>simpleCarculrator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<properties>
+		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+	</properties>
   <build>
   <resources>
     <resource>
@@ -15,11 +19,6 @@
       <directory>src/main/resources</directory>
     </resource>
   </resources>
-    
-    	<properties>
-		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-	</properties>
-    
+       
   </build>
 </project>
