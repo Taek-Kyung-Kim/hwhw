@@ -28,15 +28,7 @@
 
   <build>
 
-<plugins>
-	<plugin>
-		<groupld>org.apache.maven.plugins</groupld>
-		<artifactld>maven-war-plugin</artifactld>
-		<version>2.6</version>
-	</plugin>
-</plugins>
-	  
-			
+		
 			
 			
 	  
@@ -52,5 +44,13 @@
     </resource>
   </resources>
        
+	  
+	  <plugins>
+	<plugin>
+		<groupld>org.apache.maven.plugins</groupld>
+		<artifactld>maven-war-plugin</artifactld>
+		<version>2.6</version>
+	</plugin>
+</plugins>
   </build>
 </project>
