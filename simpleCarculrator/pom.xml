@@ -27,6 +27,19 @@
 	</dependencies>
 
   <build>
+
+<plugins>
+	<plugin>
+		<groupld>org.apache.maven.plugins</groupld>
+		<artifactld>maven-war-plugin</artifactld>
+		<version>2.6</version>
+	</plugin>
+</plugins>
+	  
+			
+			
+			
+	  
   <resources>
     <resource>
       <directory>src/main/java</directory>
