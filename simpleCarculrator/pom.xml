@@ -15,5 +15,11 @@
       <directory>src/main/resources</directory>
     </resource>
   </resources>
+    
+    	<properties>
+		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+	</properties>
+    
   </build>
 </project>
